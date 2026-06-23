@@ -61,7 +61,7 @@ const projects = [
   category: "Full Stack",
   github: "https://github.com/M-Afaq-Bhatti/Hireflow-AI-Recruitment-Platform",
   liveDemo: null,
-  image: "assets/images/hireflow.jpeg",
+  image: "assets/images/hireflow.png",
   featured: true,
 },
   // ── TEMPLATE — copy & fill in for new projects ──────────────────────────
