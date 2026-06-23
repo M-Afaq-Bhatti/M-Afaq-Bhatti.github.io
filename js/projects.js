@@ -64,6 +64,33 @@ const projects = [
   image: "assets/images/hireflow.png",
   featured: true,
 },
+
+{
+  id: 3, // Change to your next id
+  title: "LightRAG — FinOps-Optimized GraphRAG Engine",
+  description:
+    "Production-grade GraphRAG system achieving 95% of Microsoft GraphRAG quality at ~1/6000th the indexing cost. Built with LightRAG, Gemini 2.5 Flash, NanoVectorDB, and GraphML knowledge graphs, supporting five intelligent retrieval modes.",
+  techStack: [
+    "Python",
+    "LightRAG",
+    "Gemini 2.5 Flash",
+    "FastAPI",
+    "React",
+    "Vite",
+    "NanoVectorDB",
+    "NetworkX (GraphML)",
+    "Docker",
+    "Nginx",
+    "AWS EC2",
+  ],
+  category: "AI/ML",
+  github: "https://github.com/M-Afaq-Bhatti/FinOps-Optimized-GraphRAG",
+  liveDemo: null,
+  image: "assets/images/lightrag.jpeg",
+  featured: true,
+},
+
+
   // ── TEMPLATE — copy & fill in for new projects ──────────────────────────
   // {
   //   id: 2,
