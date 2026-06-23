@@ -18,7 +18,7 @@ const projects = [
     id: 1,
     title: "QuizFlow — AI-Powered Quiz & Assessment Platform",
     description:
-      "A full-stack intelligent quiz platform designed for seamless assessment and real-time performance tracking. Admins can create, manage, and publish quizzes while students attempt exams with instant results and live dashboard insights. Deployed on AWS EC2 for scalable access, integrating LLaMA 3.1 (70B) for AI-driven capabilities and future-ready enhancements.",
+     "Enterprise-grade AI assessment platform with real-time analytics, instant grading, and live performance dashboards. Built using React, Node.js, MongoDB, AWS EC2, and LLaMA 3.1 (70B).",
     techStack: [
       "Node.js",
       "Express.js",
@@ -40,7 +40,7 @@ const projects = [
   id: 2, // Change to your next id
   title: "HireFlow — Autonomous AI Recruitment Pipeline",
   description:
-    "A distributed multi-agent AI system that compresses a two-week hiring process into a fully autonomous 3-minute pipeline. Four specialized LLaMA 3 70B agents handle resume screening, assessment generation, answer evaluation, and live voice interviews — without a single human click. Built with Kafka for fault-tolerant async messaging, Redis for sub-millisecond caching, multi-tenant PostgreSQL isolation, AES-256 resume encryption, and a real-time Kanban dashboard powered by Socket.io.",
+    "Distributed multi-agent AI hiring platform automating screening, assessments, evaluation, and voice interviews. Built with LLaMA 3 70B, Kafka, Redis, PostgreSQL, Socket.io, and AES-256 encryption.",
   techStack: [
     "Node.js",
     "Express.js",
