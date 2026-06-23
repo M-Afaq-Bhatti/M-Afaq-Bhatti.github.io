@@ -36,7 +36,34 @@ const projects = [
     image: "assets/images/quizflow.jpeg", // Path relative to index.html
     featured: true,
   },
-
+{
+  id: 2, // Change to your next id
+  title: "HireFlow — Autonomous AI Recruitment Pipeline",
+  description:
+    "A distributed multi-agent AI system that compresses a two-week hiring process into a fully autonomous 3-minute pipeline. Four specialized LLaMA 3 70B agents handle resume screening, assessment generation, answer evaluation, and live voice interviews — without a single human click. Built with Kafka for fault-tolerant async messaging, Redis for sub-millisecond caching, multi-tenant PostgreSQL isolation, AES-256 resume encryption, and a real-time Kanban dashboard powered by Socket.io.",
+  techStack: [
+    "Node.js",
+    "Express.js",
+    "Next.js 14",
+    "TypeScript",
+    "PostgreSQL",
+    "Prisma ORM",
+    "Redis",
+    "Apache Kafka",
+    "Socket.io",
+    "Groq AI",
+    "LLaMA 3 (70B)",
+    "WebRTC",
+    "JWT Auth",
+    "Docker",
+    "AES-256",
+  ],
+  category: "Full Stack",
+  github: "https://github.com/M-Afaq-Bhatti/Hireflow-AI-Recruitment-Platform",
+  liveDemo: null,
+  image: "assets/images/hireflow.jpeg",
+  featured: true,
+},
   // ── TEMPLATE — copy & fill in for new projects ──────────────────────────
   // {
   //   id: 2,
